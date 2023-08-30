@@ -4,6 +4,8 @@
 
 This repository houses a fully responsive "Coming Soon" page, built with HTML, CSS, and JavaScript. The web page is designed to serve as a placeholder that tells visitors that your website is in the process of being built or undergoing maintenance. It also includes a form where visitors can leave their email addresses to be notified when the site is live.
 
+<img width="1603" alt="coming-soon" src="https://github.com/InabaKumori/Responsive-Coming-Soon-Page/assets/51642034/439fe60a-de7b-4586-b60c-813bea6fc39a">
+
 ## Features
 
 - **Responsive Design**: Looks good on all device sizes.
@@ -23,6 +25,7 @@ This repository houses a fully responsive "Coming Soon" page, built with HTML, C
     ```bash
     cd Responsive-Coming-Soon-Page
     ```
+
 
 3. **Open `coming-soon.html` in a web browser**
 
